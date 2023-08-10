@@ -5,3 +5,5 @@ bbb
 ccc
 I will be stashed1
 I will be stashed2
+
+stashed3
